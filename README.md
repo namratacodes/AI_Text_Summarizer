@@ -29,3 +29,48 @@ AI_Text_Summarizer/
 │── requirements.txt
 │── .env
 │── README.md
+
+## Installation
+
+1. Clone the repository
+git clone https://github.com/your-username/AI_Text_Summarizer.git
+cd AI_Text_Summarizer
+2. Install dependencies
+pip install -r requirements.txt
+
+##Setup
+
+1. Get a free Gemini API key
+
+Create a free API key from Google AI Studio:
+
+https://aistudio.google.com
+
+2. Create a .env file
+GEMINI_API_KEY=your_api_key_here
+Run the Application
+streamlit run app.py
+
+The app will open in your browser at:
+
+http://localhost:8501
+
+##Usage
+
+Choose Paste Text or Upload PDF
+Enter text or upload a PDF
+Select summary length
+Click Generate Summary
+Download the summary if needed
+Example Resume Description
+
+##Future Enhancements
+
+Keyword extraction
+Sentiment analysis
+Translation support
+Chat with PDF functionality
+
+##License
+
+This project is for educational and portfolio purposes.
