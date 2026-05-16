@@ -11,7 +11,7 @@ An AI-powered web application that summarizes text and PDF documents using Googl
   - Medium (~150 words)
   - Detailed (300–400 words)
 - Download the generated summary as a `.txt` file
-- Uses Google Gemini API (free tier available)
+- Uses Google Gemini API 
 
 ## Technologies Used
 
