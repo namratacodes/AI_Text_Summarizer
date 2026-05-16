@@ -24,8 +24,6 @@ An AI-powered web application that summarizes text and PDF documents using Googl
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/your-username/AI_Text_Summarizer.git
-cd AI_Text_Summarizer
 2. Install dependencies
 pip install -r requirements.txt
 
