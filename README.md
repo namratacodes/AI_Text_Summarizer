@@ -21,15 +21,6 @@ An AI-powered web application that summarizes text and PDF documents using Googl
 - PyPDF2
 - python-dotenv
 
-## Project Structure
-
-```text
-AI_Text_Summarizer/
-│── app.py
-│── requirements.txt
-│── .env
-│── README.md
-
 ## Installation
 
 1. Clone the repository
@@ -38,7 +29,7 @@ cd AI_Text_Summarizer
 2. Install dependencies
 pip install -r requirements.txt
 
-##Setup
+## Setup
 
 1. Get a free Gemini API key
 
@@ -55,7 +46,7 @@ The app will open in your browser at:
 
 http://localhost:8501
 
-##Usage
+## Usage
 
 Choose Paste Text or Upload PDF
 Enter text or upload a PDF
@@ -64,13 +55,24 @@ Click Generate Summary
 Download the summary if needed
 Example Resume Description
 
-##Future Enhancements
+## Future Enhancements
 
 Keyword extraction
 Sentiment analysis
 Translation support
 Chat with PDF functionality
 
-##License
+## License
 
 This project is for educational and portfolio purposes.
+
+## Project Structure
+
+```text
+AI_Text_Summarizer/
+│── app.py
+│── requirements.txt
+│── .env
+│── README.md
+
+
